@@ -29,7 +29,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/
+      link: https://github.com/Umatic
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/
 
@@ -63,3 +63,5 @@ plugins:
          - custom-skip-class-name
        auto_caption: false
        caption_position: bottom
+copyright: |
+  &copy; 2023 <a href="https://github.com/Umatic"  target="_blank" rel="noopener">Umatic</a>
