@@ -1,7 +1,6 @@
 # Security Threats
-
 ![security](icons/security.png){ width="350" align=right }
-
+  
 By understanding these four main categories of security threats, organizations can develop a comprehensive security strategy that addresses a wide range of risks and threats. This can include implementing strong access controls, regular software updates and patches, physical security measures, and user awareness training.
 
 ## Malware
