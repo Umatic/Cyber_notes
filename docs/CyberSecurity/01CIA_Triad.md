@@ -2,7 +2,7 @@
 
 The CIA triad is a widely used model for information security. It stands for Confidentiality, Integrity, and Availability, and it represents the three main goals of information security:
 
-![CIA Triad](cia_triad.png){ width="350" align=right }
+![CIA Triad](icons/triad.png){ width="350" align=right }
 
 ## Confidentiality
 

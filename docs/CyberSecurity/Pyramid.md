@@ -4,7 +4,7 @@ The Pyramid of Pain was developed by security expert David J. Bianco in 2013. It
 
 As outlined by David J Bianco himself, the Pyramid stages are:
 
-![Pyramid of Pain](pyramid.png){ width="420" align=right }
+![Pyramid of Pain](icons/pyramid.png){ width="420" align=right }
 
 ## Hash Values
 
