@@ -1,6 +1,6 @@
 # Welcome to CyberNotes
 
-If you're looking for a comprehensive collection of study notes on cybersecurity, IT, and technology, you've come to the right place. This site is the result of countless hours of research and learning, and I hope it will be a valuable resource for you.
+If you're looking for a comprehensive collection of study notes on cybersecurity, IT, and technology in general, you've come to the right place. This site is the result of countless hours of research and learning, and I hope it will be a valuable resource for you.
 
 ### Cybersecurity
 
