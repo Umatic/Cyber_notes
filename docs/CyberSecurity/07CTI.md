@@ -10,7 +10,9 @@ Cyber Threat Intelligence ( CTI ) or Threat Intelligence ( TI ) is the process o
 
 * What artifacts and indicators of compromise (IOCs) should you look out for?
 
-## CTI Sources
+<br>
+
+### CTI Sources
 
 With these questions, threat intelligence would be gathered from different sources under the following categories:
 

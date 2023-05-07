@@ -49,6 +49,7 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
 plugins:
+  #- with-pdf
   - search
   - glightbox:
        touchNavigation: true
