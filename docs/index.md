@@ -4,7 +4,7 @@ If you're looking for a comprehensive collection of study notes on cybersecurity
 ### [Cybersecurity](CyberSecurity/00Information_Security.md)
 Learn about the basics of cybersecurity, network security, cryptography, and ethical hacking, as well as practical tips for securing devices, data, and networks.
 
-### [Networking](Networking/OSI Model.md)
+### [Networking](Networking/osi.md)
 Explore the fundamental concepts of networking, including architecture, protocols, and technologies, and dive into advanced topics like design, troubleshooting, and optimization.
 
 ### [Programming](Programming-Scripting/Python.md)
