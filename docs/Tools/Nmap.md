@@ -1,4 +1,4 @@
-# Nmap
+# Nmap (*** PLACEHOLDER ***)
 Nmap is a popular open-source network scanning tool used for security auditing and exploration of computer networks. It allows network administrators to discover hosts and services on a computer network, as well as create a map of the network topology.
 
 Nmap uses a variety of techniques to scan a network, including host discovery, port scanning, and version detection. With host discovery, Nmap sends packets to the target network to determine which hosts are alive and available. Port scanning allows Nmap to determine which services are running on each host and which ports they are using. Version detection is used to determine the type and version of the service running on each port.
